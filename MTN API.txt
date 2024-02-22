@@ -1,0 +1,27 @@
+API
+
+Kindly find below the new URL sending concatenated SMSs for "QuickOreder23" Company:
+
+ 
+
+https://services.mtnsyr.com:7443/general/MTNSERVICES/ConcatenatedSender.aspx?User=qiuiuii729&Pass=qghd171219&From=Quick Order&Gsm=9639xxxxxxxx;9639xxxxxxxx;9639xxxxxxxx&Msg=06270628062a&Lang=0
+
+ 
+
+From: the sender ID value (Quick Order).
+
+ 
+
+GSM: the destination GSM number.
+
+ 
+
+Msg: the message text (in Unicode).
+
+ 
+
+Lang: message language 0 for Arabic & 1 for English.
+
+ 
+
+Note: QuickOreder23 Company can send concatenated SMS with 201 characters for Arabic messages & 459 characters for English messages through this URL.
